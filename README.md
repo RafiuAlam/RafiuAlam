@@ -3,7 +3,9 @@
 # 💫 About Me:
 Hi, I'm Rafiu, an enthusiastic Computer Science and Engineering graduate with a strong passion for technology, innovation, and problem-solving. Experienced in developing diverse projects and exploring emerging technologies. Quick to learn, highly adaptable, and effective in team collaborations. Eager to contribute technical expertise and creativity while growing in a dynamic and challenging environment.
 
-## 🌐 Socials:
+<br>
+
+## 🌐 Connect with me:
 <div align="center">
   <a href="https://www.facebook.com/rrafiualam" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" />
@@ -19,7 +21,9 @@ Hi, I'm Rafiu, an enthusiastic Computer Science and Engineering graduate with a 
   </a>
 </div>
 
-# 💻 Tech Stack:
+<br>
+
+# 💻 Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
@@ -46,6 +50,8 @@ Hi, I'm Rafiu, an enthusiastic Computer Science and Engineering graduate with a 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit_learn" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" width="40" height="40"/> </a> 
 </div>
+
+<br>
 
 # 📊 GitHub Stats:
   
