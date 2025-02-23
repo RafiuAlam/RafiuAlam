@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-Hi, I'm Rafiu, an enthusiastic Computer Science and Engineering graduate with a strong passion for technology, innovation, and problem-solving. Experienced in developing diverse projects and exploring emerging technologies. Quick to learn, highly adaptable, and effective in team collaborations. Eager to contribute technical expertise and creativity while growing in a dynamic and challenging environment.
+Hi, I'm Rafiu, an enthusiastic Computer Science and Engineering graduate with a strong passion for technology, innovation, and problem-solving. Experienced in developing diverse projects and exploring emerging technologies. Eager to contribute technical expertise and creativity while growing in a dynamic and challenging environment.
 
 <br>
 
