@@ -19,7 +19,7 @@ Hi, I'm Rafiu, an enthusiastic Computer Science and Engineering graduate with a 
   <a href="mailto:mdrafiualam@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email logo" />
   </a>
-<a href="https://rafiualam.github.io/myPortfolio/" target="_blank" rel="noreferrer">
+<a href="https://rafiualam.framer.website/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/internet--v1.png" alt="Website" width="43" height="43"/>
 </a>
 
